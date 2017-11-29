@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab 3.2 Input Controls</string>
+    <string name="flag">Bendera</string>
+    <string name="age">Umur</string>
+    <string name="gender">Jantina</string>
+    <string name="male">Lelaki</string>
+    <string name="female">Perumpuan</string>
+    <string name="premium">Premium</string>
+    <string name="smoker">Perokok?</string>
+    <string name="calculate">Kira</string>
+    <string name="reset">Reset</string>
+    <string-array name="age_group">
+        <item>Kurang daripada 5</item>
+        <item>6 hingga 10</item>
+        <item>11 hingga 16</item>
+        <item>17 hingga 21</item>
+        <item>22 hingga 30</item>
+        <item>31 hingga 40</item>
+        <item>41 hingga 50</item>
+        <item>Lebih daripada 50</item>
+    </string-array>
+
+</resources>

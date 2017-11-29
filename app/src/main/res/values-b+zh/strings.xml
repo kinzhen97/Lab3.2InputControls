@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab 3.2 Input Controls</string>
+    <string name="flag">国旗</string>
+    <string name="age">岁数</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="premium">会员</string>
+    <string name="smoker">烟客</string>
+    <string name="calculate">计算</string>
+    <string name="reset">空白</string>
+    <string-array name="age_group"> #to fit into spinner
+        <item>少于 5</item>
+        <item>6 至 10</item>
+        <item>11 至 16</item>
+        <item>17 至 21</item>
+        <item>22 至 30</item>
+        <item>31 至 40</item>
+        <item>41 至 50</item>
+        <item>多于 50</item>
+    </string-array>
+
+</resources>
